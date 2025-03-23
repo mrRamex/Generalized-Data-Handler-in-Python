@@ -1,6 +1,7 @@
-/librarian-bots__datasets-columns/
+/librarian-bots___dataset-columns
 /converted_csv/
 *.csv
 /datasets/
 __pycache__/
 .env
+trained_column_classifier.pth
