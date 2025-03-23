@@ -1,0 +1,6 @@
+/librarian-bots__datasets-columns/
+/converted_csv/
+*.csv
+/datasets/
+__pycache__/
+.env
